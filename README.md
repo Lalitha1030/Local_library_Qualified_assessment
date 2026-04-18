@@ -1,3 +1,4 @@
 - public/src	Contains the scripts for the accounts, authors, and books pages.
-- completed the functions inside these scripts and passed.
-- in accounts.js
+- completed writing the functions inside the scripts and passed.
+- Functions used in accounts.js:
+  * 
